@@ -11,7 +11,7 @@ static 	$DB_NAME="jol";
 static  $DB_USER="debian-sys-maint";
 static  $DB_PASS="JJJ92R081BUdp1s3";
 
-static 	$OJ_NAME="HUSTOJ";
+static 	$OJ_NAME="1xuan OJ";
 static 	$OJ_HOME="./";
 static 	$OJ_ADMIN="root@localhost";
 static 	$OJ_DATA="/home/judge/data";
